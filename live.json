@@ -1,0 +1,76 @@
+{
+  "live": [
+    {
+      "title": "Polimer News",
+      "video": "98a8zQnes0U",
+      "news_paper": "https://www.polimernews.com/"
+    },
+    {
+      "title": "Puthiya Thalaimurai TV",
+      "video": "RUzgphgBRzI",
+      "news_paper": "https://www.puthiyathalaimurai.com/"
+    },
+    {
+      "title": "Thanthi TV",
+      "video": "j1nzTy5q_1Y",
+      "news_paper": "https://www.thanthitv.com/"
+    },
+    {
+      "title": "News7 Tamil",
+      "video": "ICh_szlzoeI",
+      "news_paper": "https://news7tamil.live/"
+    },
+    {
+      "title": "Raj News",
+      "video": "2eKDMLIPZjk",
+      "news_paper": "https://www.rajtvnet.in/News/NEWS.aspx"
+    },
+    {
+      "title": "NewsJ",
+      "video": "E96QqKGzZno",
+      "news_paper": "https://newsj.tv/"
+    },
+    {
+      "title": "Kalaignar News",
+      "video": "yxVo5zANRZw",
+      "news_paper": "https://www.kalaignarseithigal.com/"
+    },
+    {
+      "title": "Jaya Plus",
+      "video": "L0rGOvuHQnA",
+      "news_paper": "https: //www.jayanewslive.com/"
+    },
+    {
+      "title": "NewsTamil",
+      "enabled": "true",
+      "video": "jueJiFeTjR4",
+      "news_paper": "https: //www.newstamil.tv/"
+    },
+    {
+      "title": "MalaimurasuTv",
+      "video": "SDACb4NSqNw",
+      "news_paper": "https: //www.malaimurasu.com/"
+    },
+    {
+      "title": "TamilJanam",
+      "enabled": "true",
+      "video": "xjiP6cLotFo",
+      "news_paper": "https: //tamiljanam.com/"
+    },
+    {
+      "title": "KumuthamTV",
+      "video": "La82cPKgo5o",
+      "news_paper": "https: //kumudam.com/"
+    },
+    {
+      "title": "SathiyamNews",
+      "video": "uhPfsZW2R6I",
+      "news_paper": "https: //sathiyam.tv/"
+    },
+    {
+      "title": "SVBC",
+      "video": "Hg53GKP9mxk",
+      "news_paper": "https: //www.svbcttd.com/SVBC%20LIVE%20TV.html"
+    }
+  ]
+}
